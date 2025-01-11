@@ -34,7 +34,7 @@ For a full list, visit my [Publications Page](https://sukrut-shishupal.github.io
 ---
 
 ## 🎯 Let's Collaborate!
-I'm always excited to collaborate on projects related to **bioinformatics**, **machine learning**, **healthcare data**, or any innovative interdisciplinary ideas. Feel free to connect with me for collaborations.
+I'm always excited to collaborate on projects related to **Artificial Intelligence**, **Healthcare Data**, or any innovative interdisciplinary ideas. Feel free to connect with me for collaborations.
 
 📧 Email: [sukrut.shishupal@gmail.com](mailto:sukrut.shishupal@gmail.com)  
 🌐 LinkedIn: [linkedin.com/in/sukrutshishupal](https://www.linkedin.com/in/sukrutshishupal/)  
